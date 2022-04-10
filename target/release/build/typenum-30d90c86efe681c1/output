@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/mayank/gemwork_3/gem-farm/target/release/build/typenum-30d90c86efe681c1/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/mayank/gemwork_3/gem-farm/target/release/build/typenum-30d90c86efe681c1/out/op.rs
